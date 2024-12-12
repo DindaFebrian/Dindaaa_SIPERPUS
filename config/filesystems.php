@@ -32,7 +32,11 @@ return [
 
         'local' => [
             'driver' => 'local',
+<<<<<<< HEAD
             'root' => storage_path('app'),
+=======
+            'root' => storage_path('app/private'),
+>>>>>>> 91b5aee3c87cbb6316ed269da00321fec7ee8dc2
             'serve' => true,
             'throw' => false,
         ],
@@ -40,7 +44,11 @@ return [
         'public' => [
             'driver' => 'local',
             'root' => storage_path('app/public'),
+<<<<<<< HEAD
             'url' => env('APP_URL') . '/storage',
+=======
+            'url' => env('APP_URL').'/storage',
+>>>>>>> 91b5aee3c87cbb6316ed269da00321fec7ee8dc2
             'visibility' => 'public',
             'throw' => false,
         ],

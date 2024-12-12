@@ -2,6 +2,7 @@
 
 namespace App\Http\Controllers;
 
+<<<<<<< HEAD
 use App\Exports\BooksExport;
 use App\Models\Book;
 use App\Models\Bookshelf;
@@ -124,3 +125,19 @@ class BookController extends Controller
         return Excel::download(new BooksExport, 'book.xlsx');
     }
 }
+=======
+use Illuminate\Http\Request;
+
+class BookController extends Controller
+{
+    
+    public function index() {
+        $data['buku'] = [
+            ['judul' => 'Buku A', 'penerbit' => 'Penerbit B'],
+            ['judul' => 'Buku B', 'penerbit' => 'Penerbit A'],
+            ['judul' => 'Buku C', 'penerbit' => 'Penerbit C'],
+        ];
+        return view('books.index', $data);
+    }
+}
+>>>>>>> 91b5aee3c87cbb6316ed269da00321fec7ee8dc2

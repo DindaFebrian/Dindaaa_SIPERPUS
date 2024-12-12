@@ -4,6 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
+<<<<<<< HEAD
     "content-hash": "63527a7cb47d0df300d0fa1541fed338",
     "packages": [
         {
@@ -84,6 +85,11 @@
             "time": "2024-07-31T14:45:16+00:00"
         },
         {
+=======
+    "content-hash": "398319e8f6974b422ec9fb711355f143",
+    "packages": [
+        {
+>>>>>>> 91b5aee3c87cbb6316ed269da00321fec7ee8dc2
             "name": "brick/math",
             "version": "0.12.1",
             "source": {
@@ -213,6 +219,7 @@
             "time": "2024-02-09T16:56:22+00:00"
         },
         {
+<<<<<<< HEAD
             "name": "composer/semver",
             "version": "3.4.3",
             "source": {
@@ -294,6 +301,8 @@
             "time": "2024-09-19T14:15:21+00:00"
         },
         {
+=======
+>>>>>>> 91b5aee3c87cbb6316ed269da00321fec7ee8dc2
             "name": "dflydev/dot-access-data",
             "version": "v3.0.3",
             "source": {
@@ -537,6 +546,7 @@
             "time": "2024-02-05T11:56:58+00:00"
         },
         {
+<<<<<<< HEAD
             "name": "dompdf/dompdf",
             "version": "v3.0.0",
             "source": {
@@ -692,6 +702,8 @@
             "time": "2024-04-29T13:26:35+00:00"
         },
         {
+=======
+>>>>>>> 91b5aee3c87cbb6316ed269da00321fec7ee8dc2
             "name": "dragonmantank/cron-expression",
             "version": "v3.4.0",
             "source": {
@@ -824,6 +836,7 @@
             "time": "2023-10-06T06:47:41+00:00"
         },
         {
+<<<<<<< HEAD
             "name": "ezyang/htmlpurifier",
             "version": "v4.18.0",
             "source": {
@@ -885,6 +898,8 @@
             "time": "2024-11-01T03:51:45+00:00"
         },
         {
+=======
+>>>>>>> 91b5aee3c87cbb6316ed269da00321fec7ee8dc2
             "name": "fruitcake/php-cors",
             "version": "v1.3.0",
             "source": {
@@ -1430,6 +1445,7 @@
         },
         {
             "name": "laravel/framework",
+<<<<<<< HEAD
             "version": "v11.29.0",
             "source": {
                 "type": "git",
@@ -1440,6 +1456,18 @@
                 "type": "zip",
                 "url": "https://api.github.com/repos/laravel/framework/zipball/425054512c362835ba9c0307561973c8eeac7385",
                 "reference": "425054512c362835ba9c0307561973c8eeac7385",
+=======
+            "version": "v11.28.1",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/laravel/framework.git",
+                "reference": "3ef5c8a85b4c598d5ffaf98afd72f6a5d6a0be2c"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/laravel/framework/zipball/3ef5c8a85b4c598d5ffaf98afd72f6a5d6a0be2c",
+                "reference": "3ef5c8a85b4c598d5ffaf98afd72f6a5d6a0be2c",
+>>>>>>> 91b5aee3c87cbb6316ed269da00321fec7ee8dc2
                 "shasum": ""
             },
             "require": {
@@ -1635,7 +1663,11 @@
                 "issues": "https://github.com/laravel/framework/issues",
                 "source": "https://github.com/laravel/framework"
             },
+<<<<<<< HEAD
             "time": "2024-10-22T14:13:31+00:00"
+=======
+            "time": "2024-10-16T16:32:21+00:00"
+>>>>>>> 91b5aee3c87cbb6316ed269da00321fec7ee8dc2
         },
         {
             "name": "laravel/prompts",
@@ -2200,6 +2232,7 @@
             "time": "2024-09-21T08:32:55+00:00"
         },
         {
+<<<<<<< HEAD
             "name": "maatwebsite/excel",
             "version": "3.1.61",
             "source": {
@@ -2532,6 +2565,8 @@
             "time": "2024-03-31T07:05:07+00:00"
         },
         {
+=======
+>>>>>>> 91b5aee3c87cbb6316ed269da00321fec7ee8dc2
             "name": "monolog/monolog",
             "version": "3.7.0",
             "source": {
@@ -3032,6 +3067,7 @@
             "time": "2024-10-15T16:15:16+00:00"
         },
         {
+<<<<<<< HEAD
             "name": "phpoffice/phpspreadsheet",
             "version": "1.29.5",
             "source": {
@@ -3137,6 +3173,8 @@
             "time": "2024-11-22T05:57:44+00:00"
         },
         {
+=======
+>>>>>>> 91b5aee3c87cbb6316ed269da00321fec7ee8dc2
             "name": "phpoption/phpoption",
             "version": "1.9.3",
             "source": {
@@ -3928,6 +3966,7 @@
             "time": "2024-04-27T21:32:50+00:00"
         },
         {
+<<<<<<< HEAD
             "name": "sabberworm/php-css-parser",
             "version": "v8.7.0",
             "source": {
@@ -4076,6 +4115,8 @@
             "time": "2024-11-08T18:45:41+00:00"
         },
         {
+=======
+>>>>>>> 91b5aee3c87cbb6316ed269da00321fec7ee8dc2
             "name": "symfony/clock",
             "version": "v7.1.1",
             "source": {
@@ -7019,6 +7060,7 @@
         },
         {
             "name": "laravel/breeze",
+<<<<<<< HEAD
             "version": "v2.2.3",
             "source": {
                 "type": "git",
@@ -7029,6 +7071,18 @@
                 "type": "zip",
                 "url": "https://api.github.com/repos/laravel/breeze/zipball/94981851d20837901552a250387280063eac83ac",
                 "reference": "94981851d20837901552a250387280063eac83ac",
+=======
+            "version": "v2.2.2",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/laravel/breeze.git",
+                "reference": "1dd612eb9e1c2632a39e6aa6df4e69cd45129dca"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/laravel/breeze/zipball/1dd612eb9e1c2632a39e6aa6df4e69cd45129dca",
+                "reference": "1dd612eb9e1c2632a39e6aa6df4e69cd45129dca",
+>>>>>>> 91b5aee3c87cbb6316ed269da00321fec7ee8dc2
                 "shasum": ""
             },
             "require": {
@@ -7075,6 +7129,7 @@
                 "issues": "https://github.com/laravel/breeze/issues",
                 "source": "https://github.com/laravel/breeze"
             },
+<<<<<<< HEAD
             "time": "2024-10-17T16:02:32+00:00"
         },
         {
@@ -7089,6 +7144,22 @@
                 "type": "zip",
                 "url": "https://api.github.com/repos/laravel/pail/zipball/085a2306b520c3896afa361c25704e5fa3c27bf0",
                 "reference": "085a2306b520c3896afa361c25704e5fa3c27bf0",
+=======
+            "time": "2024-10-06T21:13:27+00:00"
+        },
+        {
+            "name": "laravel/pail",
+            "version": "v1.1.5",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/laravel/pail.git",
+                "reference": "b33ad8321416fe86efed7bf398f3306c47b4871b"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/laravel/pail/zipball/b33ad8321416fe86efed7bf398f3306c47b4871b",
+                "reference": "b33ad8321416fe86efed7bf398f3306c47b4871b",
+>>>>>>> 91b5aee3c87cbb6316ed269da00321fec7ee8dc2
                 "shasum": ""
             },
             "require": {
@@ -7152,7 +7223,11 @@
                 "issues": "https://github.com/laravel/pail/issues",
                 "source": "https://github.com/laravel/pail"
             },
+<<<<<<< HEAD
             "time": "2024-10-21T13:59:30+00:00"
+=======
+            "time": "2024-10-15T20:06:24+00:00"
+>>>>>>> 91b5aee3c87cbb6316ed269da00321fec7ee8dc2
         },
         {
             "name": "laravel/pint",
@@ -7222,6 +7297,7 @@
         },
         {
             "name": "laravel/sail",
+<<<<<<< HEAD
             "version": "v1.37.0",
             "source": {
                 "type": "git",
@@ -7232,6 +7308,18 @@
                 "type": "zip",
                 "url": "https://api.github.com/repos/laravel/sail/zipball/5d385f2e698f0f774cdead82aff5d989fb95309b",
                 "reference": "5d385f2e698f0f774cdead82aff5d989fb95309b",
+=======
+            "version": "v1.36.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/laravel/sail.git",
+                "reference": "f184d3d687155d06bc8cb9ff6dc48596a138460c"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/laravel/sail/zipball/f184d3d687155d06bc8cb9ff6dc48596a138460c",
+                "reference": "f184d3d687155d06bc8cb9ff6dc48596a138460c",
+>>>>>>> 91b5aee3c87cbb6316ed269da00321fec7ee8dc2
                 "shasum": ""
             },
             "require": {
@@ -7281,7 +7369,11 @@
                 "issues": "https://github.com/laravel/sail/issues",
                 "source": "https://github.com/laravel/sail"
             },
+<<<<<<< HEAD
             "time": "2024-10-21T17:13:38+00:00"
+=======
+            "time": "2024-10-10T13:26:02+00:00"
+>>>>>>> 91b5aee3c87cbb6316ed269da00321fec7ee8dc2
         },
         {
             "name": "mockery/mockery",
@@ -7525,6 +7617,7 @@
         },
         {
             "name": "pestphp/pest",
+<<<<<<< HEAD
             "version": "v3.5.0",
             "source": {
                 "type": "git",
@@ -7535,6 +7628,18 @@
                 "type": "zip",
                 "url": "https://api.github.com/repos/pestphp/pest/zipball/eaeb133c77f3f5382620f0307c3b45b34961bcfc",
                 "reference": "eaeb133c77f3f5382620f0307c3b45b34961bcfc",
+=======
+            "version": "v3.4.1",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/pestphp/pest.git",
+                "reference": "67f217852ce153134fbea8857487a3829904c086"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/pestphp/pest/zipball/67f217852ce153134fbea8857487a3829904c086",
+                "reference": "67f217852ce153134fbea8857487a3829904c086",
+>>>>>>> 91b5aee3c87cbb6316ed269da00321fec7ee8dc2
                 "shasum": ""
             },
             "require": {
@@ -7545,11 +7650,19 @@
                 "pestphp/pest-plugin-arch": "^3.0.0",
                 "pestphp/pest-plugin-mutate": "^3.0.5",
                 "php": "^8.2.0",
+<<<<<<< HEAD
                 "phpunit/phpunit": "^11.4.2"
             },
             "conflict": {
                 "filp/whoops": "<2.16.0",
                 "phpunit/phpunit": ">11.4.2",
+=======
+                "phpunit/phpunit": "^11.4.1"
+            },
+            "conflict": {
+                "filp/whoops": "<2.16.0",
+                "phpunit/phpunit": ">11.4.1",
+>>>>>>> 91b5aee3c87cbb6316ed269da00321fec7ee8dc2
                 "sebastian/exporter": "<6.0.0",
                 "webmozart/assert": "<1.11.0"
             },
@@ -7621,7 +7734,11 @@
             ],
             "support": {
                 "issues": "https://github.com/pestphp/pest/issues",
+<<<<<<< HEAD
                 "source": "https://github.com/pestphp/pest/tree/v3.5.0"
+=======
+                "source": "https://github.com/pestphp/pest/tree/v3.4.1"
+>>>>>>> 91b5aee3c87cbb6316ed269da00321fec7ee8dc2
             },
             "funding": [
                 {
@@ -7633,7 +7750,11 @@
                     "type": "github"
                 }
             ],
+<<<<<<< HEAD
             "time": "2024-10-22T14:33:27+00:00"
+=======
+            "time": "2024-10-15T16:17:09+00:00"
+>>>>>>> 91b5aee3c87cbb6316ed269da00321fec7ee8dc2
         },
         {
             "name": "pestphp/pest-plugin",
@@ -8586,6 +8707,7 @@
         },
         {
             "name": "phpunit/phpunit",
+<<<<<<< HEAD
             "version": "11.4.2",
             "source": {
                 "type": "git",
@@ -8596,6 +8718,18 @@
                 "type": "zip",
                 "url": "https://api.github.com/repos/sebastianbergmann/phpunit/zipball/1863643c3f04ad03dcb9c6996c294784cdda4805",
                 "reference": "1863643c3f04ad03dcb9c6996c294784cdda4805",
+=======
+            "version": "11.4.1",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/sebastianbergmann/phpunit.git",
+                "reference": "7875627f15f4da7e7f0823d1f323f7295a77334e"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/sebastianbergmann/phpunit/zipball/7875627f15f4da7e7f0823d1f323f7295a77334e",
+                "reference": "7875627f15f4da7e7f0823d1f323f7295a77334e",
+>>>>>>> 91b5aee3c87cbb6316ed269da00321fec7ee8dc2
                 "shasum": ""
             },
             "require": {
@@ -8609,21 +8743,33 @@
                 "phar-io/manifest": "^2.0.4",
                 "phar-io/version": "^3.2.1",
                 "php": ">=8.2",
+<<<<<<< HEAD
                 "phpunit/php-code-coverage": "^11.0.7",
+=======
+                "phpunit/php-code-coverage": "^11.0.6",
+>>>>>>> 91b5aee3c87cbb6316ed269da00321fec7ee8dc2
                 "phpunit/php-file-iterator": "^5.1.0",
                 "phpunit/php-invoker": "^5.0.1",
                 "phpunit/php-text-template": "^4.0.1",
                 "phpunit/php-timer": "^7.0.1",
                 "sebastian/cli-parser": "^3.0.2",
                 "sebastian/code-unit": "^3.0.1",
+<<<<<<< HEAD
                 "sebastian/comparator": "^6.1.1",
+=======
+                "sebastian/comparator": "^6.1.0",
+>>>>>>> 91b5aee3c87cbb6316ed269da00321fec7ee8dc2
                 "sebastian/diff": "^6.0.2",
                 "sebastian/environment": "^7.2.0",
                 "sebastian/exporter": "^6.1.3",
                 "sebastian/global-state": "^7.0.2",
                 "sebastian/object-enumerator": "^6.0.1",
                 "sebastian/type": "^5.1.0",
+<<<<<<< HEAD
                 "sebastian/version": "^5.0.2"
+=======
+                "sebastian/version": "^5.0.1"
+>>>>>>> 91b5aee3c87cbb6316ed269da00321fec7ee8dc2
             },
             "suggest": {
                 "ext-soap": "To be able to generate mocks based on WSDL files"
@@ -8666,7 +8812,11 @@
             "support": {
                 "issues": "https://github.com/sebastianbergmann/phpunit/issues",
                 "security": "https://github.com/sebastianbergmann/phpunit/security/policy",
+<<<<<<< HEAD
                 "source": "https://github.com/sebastianbergmann/phpunit/tree/11.4.2"
+=======
+                "source": "https://github.com/sebastianbergmann/phpunit/tree/11.4.1"
+>>>>>>> 91b5aee3c87cbb6316ed269da00321fec7ee8dc2
             },
             "funding": [
                 {
@@ -8682,7 +8832,11 @@
                     "type": "tidelift"
                 }
             ],
+<<<<<<< HEAD
             "time": "2024-10-19T13:05:19+00:00"
+=======
+            "time": "2024-10-08T15:38:37+00:00"
+>>>>>>> 91b5aee3c87cbb6316ed269da00321fec7ee8dc2
         },
         {
             "name": "sebastian/cli-parser",
@@ -8856,6 +9010,7 @@
         },
         {
             "name": "sebastian/comparator",
+<<<<<<< HEAD
             "version": "6.1.1",
             "source": {
                 "type": "git",
@@ -8866,6 +9021,18 @@
                 "type": "zip",
                 "url": "https://api.github.com/repos/sebastianbergmann/comparator/zipball/5ef523a49ae7a302b87b2102b72b1eda8918d686",
                 "reference": "5ef523a49ae7a302b87b2102b72b1eda8918d686",
+=======
+            "version": "6.1.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/sebastianbergmann/comparator.git",
+                "reference": "fa37b9e2ca618cb051d71b60120952ee8ca8b03d"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/sebastianbergmann/comparator/zipball/fa37b9e2ca618cb051d71b60120952ee8ca8b03d",
+                "reference": "fa37b9e2ca618cb051d71b60120952ee8ca8b03d",
+>>>>>>> 91b5aee3c87cbb6316ed269da00321fec7ee8dc2
                 "shasum": ""
             },
             "require": {
@@ -8921,7 +9088,11 @@
             "support": {
                 "issues": "https://github.com/sebastianbergmann/comparator/issues",
                 "security": "https://github.com/sebastianbergmann/comparator/security/policy",
+<<<<<<< HEAD
                 "source": "https://github.com/sebastianbergmann/comparator/tree/6.1.1"
+=======
+                "source": "https://github.com/sebastianbergmann/comparator/tree/6.1.0"
+>>>>>>> 91b5aee3c87cbb6316ed269da00321fec7ee8dc2
             },
             "funding": [
                 {
@@ -8929,7 +9100,11 @@
                     "type": "github"
                 }
             ],
+<<<<<<< HEAD
             "time": "2024-10-18T15:00:48+00:00"
+=======
+            "time": "2024-09-11T15:42:56+00:00"
+>>>>>>> 91b5aee3c87cbb6316ed269da00321fec7ee8dc2
         },
         {
             "name": "sebastian/complexity",

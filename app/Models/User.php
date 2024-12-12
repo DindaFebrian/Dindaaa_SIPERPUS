@@ -6,12 +6,19 @@ namespace App\Models;
 use Illuminate\Database\Eloquent\Factories\HasFactory;
 use Illuminate\Foundation\Auth\User as Authenticatable;
 use Illuminate\Notifications\Notifiable;
+<<<<<<< HEAD
 use Spatie\Permission\Traits\HasRoles;
+=======
+>>>>>>> 91b5aee3c87cbb6316ed269da00321fec7ee8dc2
 
 class User extends Authenticatable
 {
     /** @use HasFactory<\Database\Factories\UserFactory> */
+<<<<<<< HEAD
     use HasFactory, Notifiable, HasRoles;
+=======
+    use HasFactory, Notifiable;
+>>>>>>> 91b5aee3c87cbb6316ed269da00321fec7ee8dc2
 
     /**
      * The attributes that are mass assignable.
